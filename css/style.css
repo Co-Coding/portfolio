@@ -161,6 +161,13 @@ ul li.active a {
 
 /* Proyect */
 
+.proyect-img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 300px;
+}
+
 .proyect-area img {
     width: 80%;
     height: 90%;
